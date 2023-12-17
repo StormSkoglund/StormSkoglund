@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=storms&label=Profile%20views&color=50e510&style=flat" alt="storms" /> </p>
 
-- 🌱 I’m currently learning **more about plain JavaScript, animations in css**
+- 🌱 I’m currently learning **more about plain JavaScript, animations in css and programming in general**
 
 - 👨‍💻 All of my projects are available at [https://portfolio2023-alex-skoglund.netlify.app/](https://portfolio2023-alex-skoglund.netlify.app/)
 
