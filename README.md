@@ -1,4 +1,4 @@
-![image](https://avatars.githubusercontent.com/u/125978969?v=4)
+<div align="right">![image](https://avatars.githubusercontent.com/u/125978969?v=4)</div>
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">a Norwegian student frontend-developer.</h3>
 
