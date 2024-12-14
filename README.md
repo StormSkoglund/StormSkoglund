@@ -1,16 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">a Norwegian student frontend-developer.</h3>
+<h3 align="center">a Norwegian frontend-developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=storms&label=Profile%20views&color=50e510&style=flat" alt="storms" /> </p>
 
-- 🌱 I’m currently learning **more about plain JavaScript, animations in CSS, Bootstrap as a CSS framework and programming in general.**
-
-- 👨‍💻 All of my projects are available at [https://portfolio2023-alex-skoglund.netlify.app/](https://portfolio2023-alex-skoglund.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, CMS, Life, Music.**
-
-- 📫 How to reach me **alesko52196@stud.noroff.no**
+- 🌱 My current tech-stack **I work with React, using Vite as a build tool. For styling, I prefer Tailwind CSS over Bootstrap.**
+- 🥅 My future goal **My future goal is to delve further into WordPress using PHP for practical content management purposes.** 
+- 👨‍💻 For my updated Portfolio, visit **skoglund-portfolio-2024.netlify.app**
+- 📫 How to reach me **Alex_Storm_Skoglund@hotmail.com**
 
 <p align="left">
 </p>
