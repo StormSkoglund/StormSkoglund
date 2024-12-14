@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=storms&label=Profile%20views&color=50e510&style=flat" alt="storms" /> </p>
 
 - 🌱 My current tech-stack **I work with React, using Vite as a build tool. For styling, I prefer Tailwind CSS over Bootstrap.**
-- 🥅 My future goal **My future goal is to delve further into WordPress using PHP for practical content management purposes.** 
+- 🥅 Future goal **My future goal is to delve further into WordPress using PHP for practical content management purposes.** 
 - 👨‍💻 For my updated Portfolio, visit **skoglund-portfolio-2024.netlify.app**
 - 📫 How to reach me **Alex_Storm_Skoglund@hotmail.com**
 
