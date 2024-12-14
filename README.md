@@ -6,7 +6,7 @@
 
 - 🌱 My current tech-stack **I work with React, using Vite as a build tool. For styling, I prefer Tailwind CSS over Bootstrap.**
 - 🥅 Future goal **My future goal is to delve further into WordPress using PHP for practical content management purposes.** 
-- 👨‍💻 For my updated Portfolio, visit **skoglund-portfolio-2024.netlify.app**
+- 👨‍💻 For my updated Portfolio, visit **[https://skoglund-portfolio-2024.netlify.app/]**
 - 📫 How to reach me **Alex_Storm_Skoglund@hotmail.com**
 
 <p align="left">
