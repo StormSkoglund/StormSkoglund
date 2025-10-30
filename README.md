@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=storms&label=Profile%20views&color=50e510&style=flat" alt="storms" /> </p>
 
 - 🌱 My current tech-stack **I work with React, using Vite as a build tool. For styling, I prefer Tailwind CSS over Bootstrap.**
+- 🦾 What I am learning right now **I'm currently exploring Next.js as a foundation for transitioning into fullstack development, with a focus on scalable architecture and seamless frontend-backend integration.**
 - 🥅 Future goal **My future goal is to delve further into WordPress using PHP for practical content management purposes.** 
 - 👨‍💻 For my updated Portfolio, visit **[https://www.alex-skoglund.no]**
 - 📫 How to reach me **skogdev@protonmail.com**
