@@ -6,17 +6,23 @@
 
 - 🌱 My current tech-stack **I work with React, using Vite as a build tool. For styling, I prefer Tailwind CSS over Bootstrap.**
 - 🥅 Future goal **My future goal is to delve further into WordPress using PHP for practical content management purposes.** 
-- 👨‍💻 For my updated Portfolio, visit **[https://skoglund-portfolio-2024.netlify.app/]**
-- 📫 How to reach me **Alex_Storm_Skoglund@hotmail.com**
+- 👨‍💻 For my updated Portfolio, visit **[https://www.alex-skoglund.no]**
+- 📫 How to reach me **skogdev@protonmail.com**
 
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img
+    className="p-1.5"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
+    alt="Figma"
+    width="40"
+    height="40"
+  />
+</a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -34,6 +40,9 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
